@@ -7,10 +7,10 @@
 </div>
 
 ---- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/FranciellyDiasM">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FranciellyDiasM&show_icons=true&hide=issues,contribs&show=prs_merged&theme=github_dark_dimmed" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/FranciellyDiasM">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FranciellyDiasM&layout=compact&theme=github_dark_dimmed&langs_count=8&card_width=320" />
 </a>
 
